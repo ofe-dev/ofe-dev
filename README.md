@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 >I am a computer engineer specializing in Android mobile application development using Kotlin and Java, and familiar with backend development. I am passionate about staying up-to-date with the latest technologies and constantly exploring new advancements in the field.</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I am currently developing **Android applications** and learning **Spring Boot**
 
 <p align="left">
 </p>
